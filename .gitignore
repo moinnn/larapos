@@ -8,5 +8,6 @@ Homestead.yaml
 *.sqlite
 
 storage/oauth-*
+storage/debugbar
 deploy.php
 coverage/
